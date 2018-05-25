@@ -5,4 +5,4 @@ Department of Computer Science
 University of Colorado at Boulder 
 Spring, 2018 
 
-My homeworks are updated under the hwmk folder.
+My homeworks(KNN, logreg, boosting, feature engineering, learnability and neural networks) are updated under the hwmk folder.
